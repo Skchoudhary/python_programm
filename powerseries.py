@@ -1,0 +1,12 @@
+#! /usr/bin/env python3
+x = float(input("Enter the value of x : "))
+num=term=n=1
+sum=1.0
+while n <= 100:
+    term *= x / n
+    sum += term
+    n += 1
+    print("term : ", term, "sum : ", sum)
+    if term < 0.0001:
+        break
+print("No of Times= %d and Sum= %f" % (n, sum))
