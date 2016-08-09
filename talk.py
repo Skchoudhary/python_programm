@@ -962,7 +962,7 @@ log1 = """ [15:00:37] [## Class Started at Sun Jun 19 15:00:37 2016 ##]
 [16:30:22] <chshbh> Avinash Madhukar
 [16:30:26] <kushal> endclass
 [16:30:26] [## Class Ended at Sun Jun 19 16:30:26 2016 ##]
-"""
+/"""
 log2 = """ [15:00:00] [## Class Started at Mon Jun 20 15:00:00 2016 ##]
 [15:00:00] <kushal> startclass
 [15:00:00] <kunalk> hi everyone :)
@@ -1688,7 +1688,7 @@ log2 = """ [15:00:00] [## Class Started at Mon Jun 20 15:00:00 2016 ##]
 [16:37:33] <punarvasu510> !
 [16:37:46] <sayan> endclass
 [16:37:46] [## Class Ended at Mon Jun 20 16:37:46 2016 ##]
-"""
+/"""
 log3 = """ [15:01:54] [## Class Started at Wed Jun 22 15:01:54 2016 ##]
 [15:01:54] <kushal> startclass
 [15:01:56] <gkadam> Ganesh Kadam
@@ -2098,7 +2098,7 @@ log3 = """ [15:01:54] [## Class Started at Wed Jun 22 15:01:54 2016 ##]
 [16:01:52] <anushil05> kushal: really tomorrow ðŸ˜­
 [16:01:56] <kushal> endclass
 [16:01:56] [## Class Ended at Wed Jun 22 16:01:56 2016 ##]
-"""
+/"""
 log4 = """ [15:06:25] [## Class Started at Thu Jun 23 15:06:25 2016 ##]
 [15:06:25] <sayan> startclass
 [15:06:26] <gkadam> Ganesh Kadam
@@ -2476,7 +2476,7 @@ log4 = """ [15:06:25] [## Class Started at Thu Jun 23 15:06:25 2016 ##]
 [16:10:10] <warlord77_> Sahil Joseph
 [16:10:50] <sayan> endclass
 [16:10:50] [## Class Ended at Thu Jun 23 16:10:50 2016 ##]
-"""
+/"""
 lines = log1 + '\n' + log2 + '\n' + log3 + '\n' + log4
 
 result = {}
